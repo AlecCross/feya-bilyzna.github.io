@@ -19,7 +19,7 @@ const cache = new InMemoryCache({
 })
 
 const client = new ApolloClient({
-    uri: 'https://feya-bilyzna.herokuapp.com/api',
+    uri: process.env.REACT_APP_APOLLO_CLIENT_URI,
     cache: cache,
 })
 

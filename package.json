@@ -2,7 +2,7 @@
   "name": "feya-bilyzna-front-end",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://feya.pp.ua",
+  "homepage": "https://aleccross.github.io/feya-bilyzna.github.io/",
   "dependencies": {
     "@apollo/client": "^3.4.5",
     "@testing-library/jest-dom": "^5.14.1",
